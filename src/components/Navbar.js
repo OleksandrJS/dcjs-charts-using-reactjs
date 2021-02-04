@@ -91,7 +91,7 @@ export const Navbar = () => {
       <AppBar position="static">
         <Toolbar variant="dense">
           <Typography className={classes.title} variant="h5">
-            <Link className={classes.link} to="/dcjs-charts-using-reactjs">
+            <Link className={classes.link} to="/">
               Charts
             </Link>
           </Typography>
